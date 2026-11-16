@@ -1,0 +1,14 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.swp
+
+vendor/
+node_modules/
+*.pid
